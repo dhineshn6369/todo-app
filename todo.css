@@ -107,7 +107,21 @@ ul li span:hover{
 }
 
 @media screen and (max-width:1024px){
-   
+   input{
+        padding: 8px;
+        font-weight: 12px;
+    }
+    button{
+        
+        padding: 10px 30px;
+        font-size: 12px;
+        cursor: pointer;
+        border-radius: 40px;
+        
+        
+    }
+        
+       
     .todo-app{
         width: 100%;
         max-width: 440px;
