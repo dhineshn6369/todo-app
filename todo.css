@@ -106,8 +106,6 @@ ul li span:hover{
     background: #edeef0;
 }
 
-@media screen and (max-width:600px){
-    .todo-app{
-        width: 500px;
-    }
+@media screen and (max-width:1024px){
+    
 }
